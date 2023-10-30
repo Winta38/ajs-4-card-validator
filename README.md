@@ -1,3 +1,5 @@
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-brightgreen.svg)](https://Winta38.github.io/ajs-4-card-validator)
+
 # Домашнее задание к занятию "4.Организация тестирования"
 
 Правила сдачи задания:
